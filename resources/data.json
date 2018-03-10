@@ -1,0 +1,12 @@
+{
+  "basics":{
+    "name":"pavithra",
+    "age":"95",
+    "role":"beggar",
+    "mobile":"9569347890"
+
+  },
+  "career" : {
+    "objective":"to pursue a challenging career and play a best role "
+  }
+}
